@@ -1,0 +1,305 @@
+2025-08-09 18:26:35> Installer v1.5 started.
+
+2025-08-09 18:26:35> Loading...
+2025-08-09 18:26:35> Downloading game ISO...
+2025-08-09 18:26:35> Try obtain game ISO from https://files.oldunreal.net/UT_GOTY_CD1.ISO
+2025-08-09 18:26:35> Start download UT_GOTY_CD1.ISO from https://files.oldunreal.net/UT_GOTY_CD1.ISO
+2025-08-09 18:26:35> Execute: tools\aria2c --enable-color=false --allow-overwrite=true --auto-file-renaming=false -x5 --ca-certificate=tools\ca-certificates.crt -o "UT_GOTY_CD1.ISO" "https://files.oldunreal.net/UT_GOTY_CD1.ISO"
+2025-08-09 18:27:43> Result: 0
+2025-08-09 18:27:43> Detected Windows version: 6.2
+2025-08-09 18:27:43> Compare with Vista version (6.0): Use build for modern Windows (Vista or above)
+2025-08-09 18:27:43> Downloading patch releases list...
+2025-08-09 18:27:43> Try obtain releases list from https://api.github.com/repos/OldUnreal/UnrealTournamentPatches/releases/latest
+2025-08-09 18:27:43> Start download latest from https://api.github.com/repos/OldUnreal/UnrealTournamentPatches/releases/latest
+2025-08-09 18:27:43> Execute: tools\aria2c --enable-color=false --allow-overwrite=true --auto-file-renaming=false -x5 --ca-certificate=tools\ca-certificates.crt -o "latest" "https://api.github.com/repos/OldUnreal/UnrealTournamentPatches/releases/latest"
+2025-08-09 18:27:44> Result: 0
+2025-08-09 18:27:44> Use OldUnreal-UTPatch469e-Windows-x86.zip for patch.
+2025-08-09 18:27:44> Downloading patch ZIP...
+2025-08-09 18:27:44> Start download OldUnreal-UTPatch469e-Windows-x86.zip from https://github.com/OldUnreal/UnrealTournamentPatches/releases/download/v469e-rc9/OldUnreal-UTPatch469e-Windows-x86.zip
+2025-08-09 18:27:44> Execute: tools\aria2c --enable-color=false --allow-overwrite=true --auto-file-renaming=false -x5 --ca-certificate=tools\ca-certificates.crt -o "OldUnreal-UTPatch469e-Windows-x86.zip" "https://github.com/OldUnreal/UnrealTournamentPatches/releases/download/v469e-rc9/OldUnreal-UTPatch469e-Windows-x86.zip"
+2025-08-09 18:28:02> Result: 0
+2025-08-09 18:28:02> Unpacking game ISO...
+2025-08-09 18:28:02> Execute: tools\7z x -aoa -o.. -bsp1 -x@skip.txt "UT_GOTY_CD1.ISO"
+2025-08-09 18:28:03> Result: 0
+2025-08-09 18:28:03> Unpacking Bonus Pack 4...
+2025-08-09 18:28:03> Execute: tools\7z x -aoa -o.. -bsp1 "utbonuspack4-zip.7z"
+2025-08-09 18:28:03> Result: 0
+2025-08-09 18:28:03> Unpacking patch ZIP...
+2025-08-09 18:28:03> Execute: tools\7z x -aoa -o.. -bsp1 "OldUnreal-UTPatch469e-Windows-x86.zip"
+2025-08-09 18:28:06> Result: 0
+2025-08-09 18:28:06> Unpacking game files... 
+2025-08-09 18:28:06> Execute: tools\uz decompress "..\Maps\*.uz"
+2025-08-09 18:28:11> Result: 0
+2025-08-09 18:28:11> Unpacking game files... 0%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Frigate.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 1.2%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Guardia.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 2.5%
+2025-08-09 18:28:11> Unpack ../Maps/AS-HiSpeed.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 3.7%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Mazon.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 4.9%
+2025-08-09 18:28:11> Unpack ../Maps/AS-OceanFloor.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 6.2%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Overlord.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 7.4%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Rook.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 8.6%
+2025-08-09 18:28:11> Unpack ../Maps/AS-Tutorial.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 9.9%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Command.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 11.1%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Coret.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 12.3%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Cybrosis][.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 13.6%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Darji16.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 14.8%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Dreary.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 16%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-EternalCave.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 17.3%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Face.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 18.5%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Face][.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 19.8%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Gauntlet.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 21%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-High.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 22.2%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Hydro16.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 23.5%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Kosov.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 24.7%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-LavaGiant.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 25.9%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-Niven.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 27.2%
+2025-08-09 18:28:11> Unpack ../Maps/CTF-November.unr.uz
+2025-08-09 18:28:11> Already unpacked. Remove uz file.
+2025-08-09 18:28:11> Unpacking game files... 28.4%
+2025-08-09 18:28:12> Unpack ../Maps/CTF-Noxion16.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 29.6%
+2025-08-09 18:28:12> Unpack ../Maps/CTF-Nucleus.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 30.9%
+2025-08-09 18:28:12> Unpack ../Maps/CTF-Tutorial.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 32.1%
+2025-08-09 18:28:12> Unpack ../Maps/CityIntro.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 33.3%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Agony.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 34.6%
+2025-08-09 18:28:12> Unpack ../Maps/DM-ArcaneTemple.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 35.8%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Barricade.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 37%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Codex.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 38.3%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Conveyor.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 39.5%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Crane.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 40.7%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Curse][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 42%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Cybrosis][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 43.2%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Deck16][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 44.4%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Fetid.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 45.7%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Fractal.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 46.9%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Gothic.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 48.1%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Grinder.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 49.4%
+2025-08-09 18:28:12> Unpack ../Maps/DM-HealPod][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 50.6%
+2025-08-09 18:28:12> Unpack ../Maps/DM-HyperBlast.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 51.9%
+2025-08-09 18:28:12> Unpack ../Maps/DM-KGalleon.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 53.1%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Liandri.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 54.3%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Malevolence.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 55.6%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Mojo][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 56.8%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Morbias][.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 58%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Morpheus.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 59.3%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Oblivion.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 60.5%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Peak.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 61.7%
+2025-08-09 18:28:12> Unpack ../Maps/DM-Phobos.unr.uz
+2025-08-09 18:28:12> Already unpacked. Remove uz file.
+2025-08-09 18:28:12> Unpacking game files... 63%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Pressure.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 64.2%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Pyramid.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 65.4%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Shrapnel][.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 66.7%
+2025-08-09 18:28:13> Unpack ../Maps/DM-SpaceNoxx.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 67.9%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Stalwart.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 69.1%
+2025-08-09 18:28:13> Unpack ../Maps/DM-StalwartXL.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 70.4%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Tempest.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 71.6%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Turbine.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 72.8%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Tutorial.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 74.1%
+2025-08-09 18:28:13> Unpack ../Maps/DM-Zeto.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 75.3%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Cinder.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 76.5%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Condemned.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 77.8%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Cryptic.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 79%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Gearbolt.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 80.2%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Ghardhen.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 81.5%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Lament.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 82.7%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Leadworks.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 84%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-MetalDream.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 85.2%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Olden.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 86.4%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Sesmar.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 87.7%
+2025-08-09 18:28:13> Unpack ../Maps/DOM-Tutorial.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 88.9%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_Assault.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 90.1%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_CTF.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 91.4%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_Challenge.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 92.6%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_Deathmatch.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 93.8%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_Domination.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 95.1%
+2025-08-09 18:28:13> Unpack ../Maps/EOL_Statues.unr.uz
+2025-08-09 18:28:13> Already unpacked. Remove uz file.
+2025-08-09 18:28:13> Unpacking game files... 96.3%
+2025-08-09 18:28:14> Unpack ../Maps/Entry.unr.uz
+2025-08-09 18:28:14> Already unpacked. Remove uz file.
+2025-08-09 18:28:14> Unpacking game files... 97.5%
+2025-08-09 18:28:14> Unpack ../Maps/UT-Logo-Map.unr.uz
+2025-08-09 18:28:14> Already unpacked. Remove uz file.
+2025-08-09 18:28:14> Unpacking game files... 98.8%
+2025-08-09 18:28:14> Unpack ../Maps/UTCredits.unr.uz
+2025-08-09 18:28:14> Already unpacked. Remove uz file.
+2025-08-09 18:28:14> Special fixes...
+2025-08-09 18:28:14> Alter game configuration...
+2025-08-09 18:28:14> Remove downloaded files...
+2025-08-09 18:28:14> Game installed
+2025-08-09 18:28:14> Game installed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2025-08-09 18:28:14> Game installed sucessfully.
+
+
+2025-08-09 18:28:14> Installer exit.
+

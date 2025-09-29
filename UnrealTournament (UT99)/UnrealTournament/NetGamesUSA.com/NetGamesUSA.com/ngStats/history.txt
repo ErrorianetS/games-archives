@@ -1,0 +1,35 @@
+Revision history for ngStats from NetGames USA or Unreal Tournament.
+Latest patches and info are available at http://www.NetGamesUSA.com/ngStats/UT/
+
+version 1.2 - 21 January 2000
+* The missing CTF flag kill bug that became prevalent in the UT 405b patch has been fixed.
+* Team Kills in CTF games no longer count against a player's score.
+* When launching ngStats from the start menu it will now process any old log files by default.
+* ngStats currently has a 1.3 MB max log file size restriction. It will no longer hang on larger files but rename the to *.big and continue on.
+* Added the variable "delay" to the ngStatsUT.cfg file for dedicated server operators who are running ngStats in real-time. This is to address the problem of players potentially getting disconnected during the heavy CPU usage of both UT changing the map and ngStats running. Now ngStats can run 30 seconds after the map change.
+
+version 1.1 - 01 December 1999
+* Added "Crushed", "Mortared", and "AutoCannon" suicides
+* Fixed GMT 0:00 Timezone bug that would cause ngStats to not process games
+* Upgraded ngStats Database and added DB conversion routines
+* Removed InstaGib Game Type
+
+Version 1.0.4 - 17 October 1999
+
+* Updated help files
+* Added "Stomped" death/kill type
+
+Version 1.0.3 - 24 September 1999
+
+* Added Game Speed and Game Style to match info table.
+
+Version 1.0.2 - 22 September 1999
+* Added bot skill to bot's names.
+* 32 players is now the max that will show on a detailed graph.
+* Fixed players having wrong legend in graphs with over 16 players
+
+Version 1.0.1 - 15 September 1999
+* Fixed bug where players names could show up incorrectly. Note: This was a last minute fix that made its way into some versions of the 3dfx demo and not others due to complications with hurricane Floyd.
+
+Version 1.0 - 15 September 1999
+Initial release of ngStats for Unreal Tournament with the special 3dfx demo.

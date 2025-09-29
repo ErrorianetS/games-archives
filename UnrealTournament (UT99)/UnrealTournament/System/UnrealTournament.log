@@ -1,0 +1,304 @@
+﻿Log: Log file open, 09/29/25 17:43:36
+Init: Name subsystem initialized
+Init: Version: 469
+Init: Revision: e (Preview)
+Init: Compiled: Jul 20 2025 12:12:08
+Init: Command line: 
+Init: Base directory: C:\Games\UnrealTournament\System\
+Init: Character set: Unicode
+Log: Bound to Engine.dll
+Log: Bound to Core.dll
+Log: Bound to Window.dll
+Init: Object subsystem initialized
+Init: Detected: Microsoft Windows NT 10.0 (Build: 26100)
+Log: Enabling Data Executing Prevention
+Init: Computer: DESKTOPSJLUB0U
+Init: User: Adm
+Init: Memory total: Phys=4194303K Pagef=4194303K Virt=4194176K
+Init: Working set: 32000 / 159000
+Init: CPU Page size=4096, Processors=8
+Init: CPU Detected: 12th Gen Intel(R) Core(TM) i3-12100F (GenuineIntel)
+Init: CPU Features: INVARIANT_TSC CMov FPU RDTSC PAE MMX SSE SSE2 SSE3 SSSE3 SSE4_1 SSE4_2 AVX AVX2
+Init: Timer Frequency=3302.399630 MHz - Timing Source = RDTSC
+Init: Unreal engine initialized
+Log: Bound to WinDrv.dll
+Init: Enhanced Pointer Precision Disabled
+Init: Initializing DirectDraw
+Init: DirectDraw drivers detected:
+Init:    display (Первичный видеодрайвер)
+Init: DirectDraw: Enumerated Display Modes:
+Init: DirectDraw: Mode 640x480x32
+Init: DirectDraw: Mode 720x480x32
+Init: DirectDraw: Mode 720x576x32
+Init: DirectDraw: Mode 800x600x32
+Init: DirectDraw: Mode 1024x768x32
+Init: DirectDraw: Mode 1152x864x32
+Init: DirectDraw: Mode 1176x664x32
+Init: DirectDraw: Mode 1280x720x32
+Init: DirectDraw: Mode 1280x768x32
+Init: DirectDraw: Mode 1280x800x32
+Init: DirectDraw: Mode 1280x960x32
+Init: DirectDraw: Mode 1280x1024x32
+Init: DirectDraw: Mode 1360x768x32
+Init: DirectDraw: Mode 1366x768x32
+Init: DirectDraw: Mode 1440x1080x32
+Init: DirectDraw: Mode 1600x900x32
+Init: DirectDraw: Mode 1600x1024x32
+Init: DirectDraw: Mode 1680x1050x32
+Init: DirectDraw: Mode 1920x1080x32
+Init: DirectDraw: Mode 1440x900x32
+Init: DirectDraw initialized successfully
+Init: Initializing Mouse Input Handler: Raw Input
+Init: Client initialized
+Log: Bound to Render.dll
+Init: Lighting subsystem initialized
+Init: Rendering initialized
+Log: LoadMap: Entry
+Log: Bound to Fire.dll
+Log: Bound to IpDrv.dll
+Log: Game class is 'UTIntro'
+Log: Bringing Level Entry.MyLevel up for play (0)...
+ScriptLog: InitGame: 
+ScriptLog: Base Mutator is Entry.Mutator0
+Log: Browse: CityIntro.unr?Name=ErrorianetS?Class=Botpack.TMale2?team=0?skin=SoldierSkins.sldr?Face=SoldierSkins.Brock?Voice=BotPack.VoiceMaleTwo
+Log: LoadMap: CityIntro.unr?Name=ErrorianetS?Class=Botpack.TMale2?team=0?skin=SoldierSkins.sldr?Face=SoldierSkins.Brock?Voice=BotPack.VoiceMaleTwo
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unloading: Package Render
+Log: Garbage: objects: 17010->17009; refs: 229506
+Log: Game class is 'UTIntro'
+Log: Bringing Level CityIntro.MyLevel up for play (0)...
+ScriptLog: InitGame: ?Name=ErrorianetS?Class=Botpack.TMale2?team=0?skin=SoldierSkins.sldr?Face=SoldierSkins.Brock?Voice=BotPack.VoiceMaleTwo
+ScriptLog: Base Mutator is CityIntro.Mutator0
+Init: Initialized moving brush tracker for Level CityIntro.MyLevel
+Log: Bound to UWeb.dll
+ScriptLog: Team 0
+ScriptLog: Login: ErrorianetS
+Log: Possessed PlayerPawn: TMale2 CityIntro.TMale0
+Init: Input system initialized for WindowsViewport0
+Log: Opened viewport
+Log: Bound to D3D11Drv.dll
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: SwapChain.SetFullscreenState failed (1920, 1080, 4, 1)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Log: Render device created in 0.291684 seconds
+Log: Bound to ALAudio.dll
+Init: ALAudio: Trying to autodetect HRTF. Note: Autodetection may only work with USB headphones.
+Init: ALAudio: Trying to use default device
+Init: ALAudio: We are using OpenAL device: OpenAL Soft (OpenAL Soft on РќР°СѓС€РЅРёРєРё (High Definition Audio Device))
+Init: ALAudio: Supported extensions: ALC_ENUMERATE_ALL_EXT ALC_ENUMERATION_EXT ALC_EXT_CAPTURE ALC_EXT_DEDICATED ALC_EXT_disconnect ALC_EXT_EFX ALC_EXT_thread_local_context ALC_SOFT_device_clock ALC_SOFT_HRTF ALC_SOFT_loopback ALC_SOFT_loopback_bformat ALC_SOFT_output_limiter ALC_SOFT_output_mode ALC_SOFT_pause_device ALC_SOFT_reopen_device
+Init: ALAudio: OutputRateNum 5(44100 Hz) SampleRateNum 5 (44100 Hz)
+Init: ALAudio: Can't set OutputRate of 44100, using system (OS) defaults of 48000.
+Some backends don't support setting custom rates for specific applications (MMDevAPI or ALSA without dmix).
+In this case setting something higher than what the system is outputting is unnecessary since it's just going to be downsampled for output anyway,
+and setting it lower is just going to make it get upsampled after OpenAL Soft has already applied its filters and effects.
+Adjust your system settings instead.
+Init: ALAudio: Audio hardware supports 255 mono (usually sound) and 1 stereo (usually music) sources.
+Init: ALAudio: auto matched SampleRate (48000 Hz) to OutputRate (48000 Hz).
+Init: ALAudio: OpenALSoft extension ALC_SOFT_HRTF found.
+Init: ALAudio: HRTF is enabled.
+Init: OpenAL Effects extension version 1.0 found.
+Init: ALAudio: EFX initialized.
+Init: ALAudio: Version 1.1 ALSOFT 1.22.2 found
+Init: ALAudio subsystem initialized.
+Init: Game engine initialized
+Log: Startup time: 2.088816 seconds
+Warning: FIREWALL: Freed XP.SP2 Firewall Object
+Init: ALAudio: Trying to autodetect HRTF. Note: Autodetection may only work with USB headphones.
+Init: ALAudio: We are using OpenAL device:  OpenAL Soft (OpenAL Soft on РќР°СѓС€РЅРёРєРё (High Definition Audio Device))
+Log: StartMusic Uttitle Unreal Tournament Title MusicHandle->MusicBuffer 16,MUSIC_BUFFER_SIZE 16384), IsPlaying 0
+Log: ALAudio: playing Uttitle Unreal Tournament Title (Impulse Tracker 2.14v5 IT 1.00)
+Log: URL: Adding default option Name=ErrorianetS
+Log: URL: Adding default option Class=Botpack.TMale2
+Log: URL: Adding default option team=0
+Log: URL: Adding default option skin=SoldierSkins.sldr
+Log: URL: Adding default option Face=SoldierSkins.Brock
+Log: URL: Adding default option Voice=BotPack.VoiceMaleTwo
+Log: Browse: Index.unr?entry?Name=ErrorianetS?Class=Botpack.TMale2?team=0?skin=SoldierSkins.sldr?Face=SoldierSkins.Brock?Voice=BotPack.VoiceMaleTwo
+Log: Failed; returning to Entry
+Init: Shut down moving brush tracker for Level CityIntro.MyLevel
+Log: Spawning new actor for Viewport WindowsViewport0
+ScriptLog: Team 0
+ScriptLog: Login: ErrorianetS
+Log: Possessed PlayerPawn: TMale2 Entry.TMale20
+ScriptLog: Creating root window: UMenu.UMenuRootWindow
+ScriptLog: Using Configured GUI Scale: 1.500000
+Log: Bound to udemo.dll
+udemo: Startup hack successful!
+Log: UDEMO: Successfully got list of demos
+Log: UDEMO: Successfully got list of demos
+Log: StartMusic utmenu23 Unreal Tournament Menu MusicHandle->MusicBuffer 16,MUSIC_BUFFER_SIZE 16384), IsPlaying 0
+Log: ALAudio: playing utmenu23 Unreal Tournament Menu (Impulse Tracker 2.14v5 IT 1.00)
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Log: AttemptFullscreen
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: Viewport WindowsViewport0: WM_DisplayChange 1920x1080x32
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: AttemptFullscreen
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Init: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+Init: WinSock: I am DESKTOP-SJLUB0U (26.194.150.183)
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: Viewport WindowsViewport0: WM_DisplayChange 1920x1080x32
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: AttemptFullscreen
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: Viewport WindowsViewport0: WM_DisplayChange 1920x1080x32
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: AttemptFullscreen
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: Viewport WindowsViewport0: WM_DisplayChange 1920x1080x32
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: Viewport WindowsViewport0: WM_DisplayChange 0x0x0
+Log: AttemptFullscreen
+Log: D3D11Drv: SetRes(1920, 1080, 4, 1) called
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_Fullscreen | BLIT_Direct3D, 1920, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1920 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1920 x 1080
+Log: appRequestExit(0)
+Log: DispatchMessages: Received WM_QUIT
+Log: EndFullscreen
+Log: D3D11Drv: SetRes(1440, 1080, 4, 0) called
+Log: Viewport WindowsViewport0: WM_DisplayChange 1920x1080x32
+Log: D3D11Drv: Calling Viewport->ResizeViewport(BLIT_HardwarePaint | BLIT_Direct3D, 1440, 1080, 4)
+Log: D3D11Drv: Updating SwapChain size to 1440 x 1080
+Log: D3D11Drv: Resizing scene buffers to 1440 x 1080
+Exit: Preparing to exit.
+Log: Collecting garbage
+Log: Purging garbage
+Log: Unbound to Engine.dll
+Log: Unbound to Core.dll
+Log: Unbound to Window.dll
+Log: Unloading: Package Engine
+Log: Unloading: Package Core
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: DirectDraw End Mode
+Log: Flushing cache
+Exit: DirectDraw released
+Exit: Windows client shut down
+Log: Unbound to Render.dll
+Exit: Lighting subsystem shut down
+Exit: Rendering shut down
+Log: Unloading: Package Entry
+Log: Unloading: Package Logo
+Log: Unbound to Fire.dll
+Log: Unloading: Package Fire
+Log: Unloading: Package credits
+Log: Unloading: Package Botpack
+Log: Unloading: Package UnrealShare
+Log: Unloading: Package UnrealI
+Log: Unloading: Package Female2Voice
+Log: Unloading: Package Male2Voice
+Log: Unloading: Package Female1Voice
+Log: Unloading: Package BossVoice
+Log: Unloading: Package Male1Voice
+Log: Unloading: Package UMenu
+Log: Unloading: Package UWindow
+Log: Unloading: Package UBrowser
+Log: Unbound to IpDrv.dll
+Log: Unloading: Package IpDrv
+Log: Unloading: Package Announcer
+Log: Unloading: Package CityIntro
+Log: Unloading: Package city
+Log: Unloading: Package Detail
+Log: Unloading: Package ArenaTex
+Log: Unloading: Package GenFX
+Log: Unloading: Package NaliCast
+Log: Unloading: Package RainFX
+Log: Unloading: Package DecayedS
+Log: Unloading: Package GenIn
+Log: Unloading: Package NaliFX
+Log: Unloading: Package genfluid
+Log: Unloading: Package ShaneSky
+Log: Unloading: Package AmbModern
+Log: Unloading: Package AmbAncient
+Log: Unloading: Package AmbOutside
+Log: Unloading: Package Uttitle
+Log: Unloading: Package openingwave
+Log: D3D11Drv: exit called
+Log: D3D11Drv: D3D11Drv.Device refcount is now 0
+Log: Unloading: Package UTMenu
+Log: Unloading: Package LadderSounds
+Log: Unbound to UWeb.dll
+Log: Unloading: Package UWeb
+Log: Unloading: Package UTServerAdmin
+Log: Unloading: Package IpServer
+Log: Unloading: Package LadrArrow
+Log: Unloading: Package SoldierSkins
+Log: Unbound to D3D11Drv.dll
+Log: Unbound to ALAudio.dll
+Exit: ALAudio: subsystem shut down.
+Exit: ALAudio: Audio subsystem shut down.
+Log: Unloading: Package LadderFonts
+Log: Unloading: Package UWindowFonts
+Log: Unbound to udemo.dll
+Log: Unloading: Package udemo
+Log: Unloading: Package utmenu23
+Log: Unloading: Package UTBrowser
+Log: Unloading: Package Chaosgames
+Log: Unloading: Package ChaosUT
+Log: Unloading: Package chaostex
+Log: Unloading: Package ChaosSounds
+Log: Unloading: Package chaossounds2
+Log: Unloading: Package ChaosUTMedia1
+Log: Unloading: Package ChaosUTMedia5
+Log: Unloading: Package ChaosUTMedia2
+Log: Unloading: Package chaostex2
+Log: Unloading: Package ChaosUTMedia4
+Log: Unloading: Package ChaosUTMedia3
+Log: Unloading: Package chaos_special_tex
+Log: Unloading: Package ChaosUTMiscMuts
+Log: Unloading: Package RelicsBindings
+Log: D3D11Drv: destroying instance
+Log: Garbage: objects: 27521->0; refs: 0
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: Log file closed, 09/29/25 17:45:13

@@ -1,0 +1,570 @@
+Uninitialized: Log file open, 08/09/25 20:28:06
+Uninitialized: Used 8 threads.
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.093000 secs
+Uninitialized: Decompressed ..\Maps\AS-Frigate.unr.uz -> ..\Maps\AS-Frigate.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\AS-Guardia.unr.uz -> ..\Maps\AS-Guardia.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.093000 secs
+Uninitialized: Decompressed ..\Maps\AS-HiSpeed.unr.uz -> ..\Maps\AS-HiSpeed.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\AS-Mazon.unr.uz -> ..\Maps\AS-Mazon.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\AS-OceanFloor.unr.uz -> ..\Maps\AS-OceanFloor.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.031000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.109000 secs
+Uninitialized: Decompressed ..\Maps\AS-Overlord.unr.uz -> ..\Maps\AS-Overlord.unr
+Uninitialized: stage 0: 0.032000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\AS-Rook.unr.uz -> ..\Maps\AS-Rook.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.048000 secs
+Uninitialized: Decompressed ..\Maps\AS-Tutorial.unr.uz -> ..\Maps\AS-Tutorial.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.032000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.032000 secs
+Uninitialized: Total: 0.079000 secs
+Uninitialized: Decompressed ..\Maps\CityIntro.unr.uz -> ..\Maps\CityIntro.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Command.unr.uz -> ..\Maps\CTF-Command.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Coret.unr.uz -> ..\Maps\CTF-Coret.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.031000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.093000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Cybrosis][.unr.uz -> ..\Maps\CTF-Cybrosis][.unr
+Uninitialized: stage 0: 0.062000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.047000 secs
+Uninitialized: stage 3: 0.031000 secs
+Uninitialized: stage 4: 0.031000 secs
+Uninitialized: Total: 0.171000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Darji16.unr.uz -> ..\Maps\CTF-Darji16.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Dreary.unr.uz -> ..\Maps\CTF-Dreary.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\CTF-EternalCave.unr.uz -> ..\Maps\CTF-EternalCave.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Face.unr.uz -> ..\Maps\CTF-Face.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Face][.unr.uz -> ..\Maps\CTF-Face][.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Gauntlet.unr.uz -> ..\Maps\CTF-Gauntlet.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.078000 secs
+Uninitialized: Decompressed ..\Maps\CTF-High.unr.uz -> ..\Maps\CTF-High.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.032000 secs
+Uninitialized: stage 3: 0.031000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Hydro16.unr.uz -> ..\Maps\CTF-Hydro16.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Kosov.unr.uz -> ..\Maps\CTF-Kosov.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\CTF-LavaGiant.unr.uz -> ..\Maps\CTF-LavaGiant.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Niven.unr.uz -> ..\Maps\CTF-Niven.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.078000 secs
+Uninitialized: Decompressed ..\Maps\CTF-November.unr.uz -> ..\Maps\CTF-November.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Noxion16.unr.uz -> ..\Maps\CTF-Noxion16.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.032000 secs
+Uninitialized: stage 3: 0.031000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.109000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Nucleus.unr.uz -> ..\Maps\CTF-Nucleus.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\CTF-Tutorial.unr.uz -> ..\Maps\CTF-Tutorial.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-Agony.unr.uz -> ..\Maps\DM-Agony.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\DM-ArcaneTemple.unr.uz -> ..\Maps\DM-ArcaneTemple.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.046000 secs
+Uninitialized: Decompressed ..\Maps\DM-Barricade.unr.uz -> ..\Maps\DM-Barricade.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-Codex.unr.uz -> ..\Maps\DM-Codex.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\DM-Conveyor.unr.uz -> ..\Maps\DM-Conveyor.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.031000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.094000 secs
+Uninitialized: Decompressed ..\Maps\DM-Crane.unr.uz -> ..\Maps\DM-Crane.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Curse][.unr.uz -> ..\Maps\DM-Curse][.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\DM-Cybrosis][.unr.uz -> ..\Maps\DM-Cybrosis][.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\DM-Deck16][.unr.uz -> ..\Maps\DM-Deck16][.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\DM-Fetid.unr.uz -> ..\Maps\DM-Fetid.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Fractal.unr.uz -> ..\Maps\DM-Fractal.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.032000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.078000 secs
+Uninitialized: Decompressed ..\Maps\DM-Gothic.unr.uz -> ..\Maps\DM-Gothic.unr
+Uninitialized: stage 0: 0.031000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\DM-Grinder.unr.uz -> ..\Maps\DM-Grinder.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-HealPod][.unr.uz -> ..\Maps\DM-HealPod][.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-HyperBlast.unr.uz -> ..\Maps\DM-HyperBlast.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.032000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.079000 secs
+Uninitialized: Decompressed ..\Maps\DM-KGalleon.unr.uz -> ..\Maps\DM-KGalleon.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Liandri.unr.uz -> ..\Maps\DM-Liandri.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-Malevolence.unr.uz -> ..\Maps\DM-Malevolence.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Mojo][.unr.uz -> ..\Maps\DM-Mojo][.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\DM-Morbias][.unr.uz -> ..\Maps\DM-Morbias][.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\DM-Morpheus.unr.uz -> ..\Maps\DM-Morpheus.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\DM-Oblivion.unr.uz -> ..\Maps\DM-Oblivion.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.046000 secs
+Uninitialized: Decompressed ..\Maps\DM-Peak.unr.uz -> ..\Maps\DM-Peak.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.016000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\DM-Phobos.unr.uz -> ..\Maps\DM-Phobos.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Pressure.unr.uz -> ..\Maps\DM-Pressure.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.016000 secs
+Uninitialized: Decompressed ..\Maps\DM-Pyramid.unr.uz -> ..\Maps\DM-Pyramid.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.046000 secs
+Uninitialized: Decompressed ..\Maps\DM-Shrapnel][.unr.uz -> ..\Maps\DM-Shrapnel][.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.016000 secs
+Uninitialized: Decompressed ..\Maps\DM-SpaceNoxx.unr.uz -> ..\Maps\DM-SpaceNoxx.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DM-Stalwart.unr.uz -> ..\Maps\DM-Stalwart.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-StalwartXL.unr.uz -> ..\Maps\DM-StalwartXL.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DM-Tempest.unr.uz -> ..\Maps\DM-Tempest.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.062000 secs
+Uninitialized: Decompressed ..\Maps\DM-Turbine.unr.uz -> ..\Maps\DM-Turbine.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.000000 secs
+Uninitialized: Decompressed ..\Maps\DM-Tutorial.unr.uz -> ..\Maps\DM-Tutorial.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.078000 secs
+Uninitialized: Decompressed ..\Maps\DM-Zeto.unr.uz -> ..\Maps\DM-Zeto.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Cinder.unr.uz -> ..\Maps\DOM-Cinder.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Condemned.unr.uz -> ..\Maps\DOM-Condemned.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Cryptic.unr.uz -> ..\Maps\DOM-Cryptic.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Gearbolt.unr.uz -> ..\Maps\DOM-Gearbolt.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.015000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Ghardhen.unr.uz -> ..\Maps\DOM-Ghardhen.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.031000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Lament.unr.uz -> ..\Maps\DOM-Lament.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.015000 secs
+Uninitialized: Total: 0.063000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Leadworks.unr.uz -> ..\Maps\DOM-Leadworks.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\DOM-MetalDream.unr.uz -> ..\Maps\DOM-MetalDream.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Olden.unr.uz -> ..\Maps\DOM-Olden.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.016000 secs
+Uninitialized: Total: 0.047000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Sesmar.unr.uz -> ..\Maps\DOM-Sesmar.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.015000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\DOM-Tutorial.unr.uz -> ..\Maps\DOM-Tutorial.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.000000 secs
+Uninitialized: Decompressed ..\Maps\Entry.unr.uz -> ..\Maps\Entry.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.000000 secs
+Uninitialized: Decompressed ..\Maps\EOL_Assault.unr.uz -> ..\Maps\EOL_Assault.unr
+Uninitialized: stage 0: 0.015000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\EOL_Challenge.unr.uz -> ..\Maps\EOL_Challenge.unr
+Uninitialized: stage 0: 0.016000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.016000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.032000 secs
+Uninitialized: Decompressed ..\Maps\EOL_CTF.unr.uz -> ..\Maps\EOL_CTF.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.000000 secs
+Uninitialized: Decompressed ..\Maps\EOL_Deathmatch.unr.uz -> ..\Maps\EOL_Deathmatch.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.016000 secs
+Uninitialized: Decompressed ..\Maps\EOL_Domination.unr.uz -> ..\Maps\EOL_Domination.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.016000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.016000 secs
+Uninitialized: Decompressed ..\Maps\EOL_Statues.unr.uz -> ..\Maps\EOL_Statues.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.015000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.015000 secs
+Uninitialized: Decompressed ..\Maps\UT-Logo-Map.unr.uz -> ..\Maps\UT-Logo-Map.unr
+Uninitialized: stage 0: 0.000000 secs
+Uninitialized: stage 1: 0.000000 secs
+Uninitialized: stage 2: 0.000000 secs
+Uninitialized: stage 3: 0.000000 secs
+Uninitialized: stage 4: 0.000000 secs
+Uninitialized: Total: 0.000000 secs
+Uninitialized: Decompressed ..\Maps\UTCredits.unr.uz -> ..\Maps\UTCredits.unr
+Uninitialized: Log file closed, 08/09/25 20:28:11

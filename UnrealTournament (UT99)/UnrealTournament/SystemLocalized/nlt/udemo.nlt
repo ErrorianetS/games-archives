@@ -1,0 +1,32 @@
+[Public]
+Object=(Name=udemo.UDmodItem,Class=Class,MetaClass=UMenu.UMenuModMenuItem)
+
+[DemoPlaybackSpec]
+; EN: Seeking="SEEKING"
+Seeking="ZOEKEN NAAR"
+
+[UDClientWindow]
+; EN: Spechelp="If checked, you will be able to fly around the level when playing a demo"
+Spechelp="Indien aangevinkt, kun je in het level rondvliegen tijdens het spelen van een demonstratie"
+
+[UDPathsclient]
+; EN: Empty="Empty"
+Empty="Leeg"
+
+[UDNetSettingsClient]
+; EN: Empty="(Empty)"
+Empty="(Leeg)"
+
+[UDmoditem]
+; EN: MenuCaption="&Demo Manager"
+MenuCaption="&Demo Manager"
+; EN: MenuHelp="Play and Record demos!"
+MenuHelp="Speel en neem demo's op!"
+
+[UDnamewindow]
+; EN: WindowTitle="Enter Demo Name"
+WindowTitle="Voer de demo-naam in"
+
+[DownloadFramedWindow]
+; EN: WindowTitle="Downloading..."
+WindowTitle="Downladen..."
